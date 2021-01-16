@@ -15,7 +15,7 @@ class Glue{
        this.glue.bodyA=null; 
     }
 
-     attach(){
+     attach(body){
       this.glue.bodyA=body;
      }
 
